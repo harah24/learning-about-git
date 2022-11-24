@@ -11,3 +11,8 @@ header{
     color: white;
     min-height: 30vh;
 }
+
+p {
+    color: black;
+    font-weight: 500;
+}
