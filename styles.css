@@ -12,7 +12,8 @@ header{
     min-height: 30vh;
 }
 
-p {
+main {
+    background-color: yellow;
     color: black;
     font-weight: 500;
 }
